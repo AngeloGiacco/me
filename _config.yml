@@ -1,6 +1,5 @@
 layout: sidebar
-
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -18,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
@@ -28,18 +27,18 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: angelo.giacco.7121
+  facebook: angelo.giacco.7121
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: angelosgiacco
   # keybase: your_username
   # linkedin: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: giaccoangelo
+  twitter: giaccoangelo
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -55,3 +54,6 @@ topics:
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+
+ 
