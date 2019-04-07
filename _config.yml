@@ -46,8 +46,8 @@ social_media:
 
 topics:
   - name: Swift
-    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fdeveloper.apple.com%2Fswift%2Fimages%2Fswift-og.png&imgrefurl=https%3A%2F%2Fdeveloper.apple.com%2Fswift%2F&docid=u-20sgoUCTYNfM&tbnid=HSdVeE9a2L7euM%3A&vet=10ahUKEwi5xu_m0L7hAhXUUBUIHQETBi4QMwhBKAAwAA..i&w=1200&h=1200&bih=821&biw=1440&q=swift%20programming%20language%20logo&ved=0ahUKEwi5xu_m0L7hAhXUUBUIHQETBi4QMwhBKAAwAA&iact=mrc&uact=8
-
+    image_url: http://static1.squarespace.com/static/558def25e4b0fc259f066636/5a49786bf9619ae3bb6a2564/5b68eeacaa4a99da3bcdc610/1545107487365/Swift_logo.png
+  
   - name: Keras
     image_url: https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg
 
