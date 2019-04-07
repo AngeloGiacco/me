@@ -51,6 +51,6 @@ topics:
   - name: Keras
     image_url: https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg
 
-  - name: sass
+  - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
