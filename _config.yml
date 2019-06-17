@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     forks: false
-    projects:
+    projects: pyhoneybot
     # - repo-name
 
 social_media:
